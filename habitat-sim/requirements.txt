@@ -1,0 +1,6 @@
+attrs>=19.1.0
+numba
+numpy
+numpy-quaternion
+pillow
+tqdm
