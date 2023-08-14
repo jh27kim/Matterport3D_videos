@@ -1,0 +1,25 @@
+# Dataset
+/dataset
+/quick_access
+
+# Images
+*.png
+*.jpg
+*.gif
+
+# Videos
+*.mp4
+*.avi
+*.pkl
+
+# Logs
+*.zip
+*.log
+*.txt
+
+
+# PyCache
+__pycache__
+.DS_Store
+venv
+
